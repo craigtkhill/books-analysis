@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+books.txt
+clean_books.csv
+goodreads_library_export.csv
